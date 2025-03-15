@@ -1,7 +1,12 @@
+import nltk
+# Download required NLTK data
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+
 import streamlit as st
 import pickle
 import re
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -10,11 +15,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import base64
-
-# Download required NLTK data
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('wordnet')
 
 # Load trained model and vectorizer
 with open("sentiment_model1.pkl", "rb") as best_model_file:
