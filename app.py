@@ -1,7 +1,7 @@
 import nltk
-# Download required NLTK data
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('punkt_tab')  # Force downloading punkt_tab
 nltk.download('wordnet')
 
 import streamlit as st
