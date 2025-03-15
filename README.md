@@ -76,4 +76,4 @@ Three different models were implemented to classify the sentiment:
 - Expand to multilingual sentiment analysis.
 
 ## Contact
-For any queries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries, feel free to reach out at [your-email@example.com](mailto:abhiramkrishnayanam@gmail.com).
