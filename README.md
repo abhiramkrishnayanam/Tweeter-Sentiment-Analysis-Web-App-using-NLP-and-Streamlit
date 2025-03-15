@@ -1,10 +1,9 @@
-# Tweeter-Sentiment-Analysis-using-NLP
+# Tweeter-Sentiment-Analysis-using-NLP  ( Sentiment Analysis Web App ) 
 Using NLP techniques, I have built a web app for Sentiment Analysis
-# Sentiment Analysis Web App
 
 ## Overview
 This Sentiment Analysis Web App analyzes tweets to classify their sentiment as positive, negative, or neutral. The project includes data preprocessing, model building, and deployment using Streamlit.
-
+ 
 ## Dataset
 - The dataset used consists of tweets with labeled sentiments.
 - Data was cleaned and explored through Exploratory Data Analysis (EDA) to understand patterns and trends.
